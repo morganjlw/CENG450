@@ -1,4 +1,4 @@
-# CENG450: 16-Bit Pipelined CPU 
+# VHDL 16-Bit Pipelined CPU 
 ![](https://github.com/morganjlw/CENG450/blob/master/cpu.JPG)
 
 ## Summary
